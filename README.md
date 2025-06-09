@@ -1,9 +1,10 @@
-### WIP.
+
 ---
 
 <br />
 
-![kanedas-bike](https://github.com/user-attachments/assets/a3117685-8e69-4704-abe6-22a3700982c1)
+![kanedabike](https://github.com/user-attachments/assets/c8274461-a7b3-4d32-ac24-b5a904e3e63e)
+
 
 <!--
 **oGrinch/oGrinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
