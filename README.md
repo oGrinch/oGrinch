@@ -2,7 +2,6 @@
 ---
 
 <br />
-<br />
 
 ![kanedas-bike](https://github.com/user-attachments/assets/a3117685-8e69-4704-abe6-22a3700982c1)
 
