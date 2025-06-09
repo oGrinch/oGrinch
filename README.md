@@ -3,8 +3,7 @@
 
 <br />
 
-![kanedabike](https://github.com/user-attachments/assets/c8274461-a7b3-4d32-ac24-b5a904e3e63e)
-
+![kanedasbike](https://github.com/user-attachments/assets/1b84d496-079f-4f93-bf06-0e3a2349f547)
 
 <!--
 **oGrinch/oGrinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
